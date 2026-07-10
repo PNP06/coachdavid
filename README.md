@@ -1,6 +1,6 @@
-# Coach David - Minuteur libre
+# Coach David - Session tracker
 
-Application web statique centrée sur un minuteur sportif libre, utilisable sans séance prédéfinie.
+Application web sportive centrée sur le suivi de tours : chrono par tour, récupération automatique, progression visuelle et historique des temps. Un mode HIIT vélo reste accessible depuis l'écran principal.
 
 ## Lancer localement
 

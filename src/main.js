@@ -1,3 +1,3 @@
-import { FreeTimer } from "./components/FreeTimer.js";
+import { WorkoutApp } from "./components/WorkoutApp.js";
 
-new FreeTimer(document.querySelector("#app"));
+new WorkoutApp(document.querySelector("#app"));
