@@ -1,0 +1,15 @@
+// Coach David : site statique, la racine du dépôt est publiée telle quelle (fichiers exclus : .assetsignore).
+// Mis en ligne par Workers Builds (Cloudflare) à chaque push sur la branche principale.
+// Adresse : https://coach.ddlab.fr (Custom Domain du Worker « coach »).
+{
+  "name": "coach",
+  "account_id": "43ee5bd1b2587f12085fee1f36e4d619",
+  "compatibility_date": "2026-11-01",
+  "workers_dev": false,
+  "preview_urls": false,
+  "assets": {
+    "directory": ".",
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "single-page-application"
+  }
+}

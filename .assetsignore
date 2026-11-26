@@ -1,0 +1,12 @@
+# Fichiers du dépôt à ne pas publier sur Cloudflare
+.git
+.github
+.gitattributes
+.gitignore
+node_modules
+tests
+wrangler.jsonc
+.wrangler
+package.json
+package-lock.json
+README.md
